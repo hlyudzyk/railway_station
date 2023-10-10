@@ -2,7 +2,6 @@ package railway;
 
 import java.time.LocalDateTime;
 
-
 public final class Train {
     private final int trainNumber;
     private final String destination;
